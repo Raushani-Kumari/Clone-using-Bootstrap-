@@ -1,0 +1,1 @@
+The project TO-DO list is about managing our task. In this, we can create a list of to-do tasks and after the completion of those tasks, we can manipulate the list by updating and deleting the completed task. This project majorly uses the CRUD operation.   
